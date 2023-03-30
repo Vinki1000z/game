@@ -1,0 +1,156 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'League Gothic', sans-serif;
+    font-family: 'Pacifico', cursive;
+}
+
+
+#img1 {
+    height: 34px;
+    width: 43px;
+    /* filter: invert(1); */
+    border-radius: 3px;
+}
+
+#nav1 {
+    color: white;
+}
+
+.con1 {
+    display: flex;
+    justify-content: space-evenly;
+    /* align-items: center; */
+}
+
+.left {
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    grid-template-rows: 50px 50px 50px;
+    grid-column-gap: 52px;
+    grid-row-gap: 52px;
+    margin-top: 50px;
+    /* text-align: right; */
+}
+
+.box {
+    /* border: 1px solid red; */
+    width: 40px;
+
+    height: 40px;
+    /* margin:20px; */
+    padding: 50px;
+    cursor: pointer;
+
+}
+
+.right {
+    margin-top: 50px;
+}
+
+.heading {
+
+    font-size: 30px;
+    margin: 10px;
+}
+
+.change {
+    margin: 20px;
+}
+
+#btn {
+    margin-left: 10px;
+}
+
+#img2 {
+    height: 200px;
+}
+
+.t {
+    position: relative;
+    left: -18px;
+    top: -48px;
+    font-size: 60px;
+    font-family: 'League Gothic', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Scope One', serif;
+    
+}
+.line{
+    width: 300px;
+    height: 1.1px;
+    position: absolute;
+    background-color: black;
+}
+
+#b1 {
+    border: 1px solid;
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: black;
+    border-bottom-color: black;
+}
+
+#b2 {
+    border: 1px solid;
+    border-top-color: white;
+    border-left-color: black;
+    border-right-color: black;
+    border-bottom-color: black;
+}
+
+#b3 {
+    border: 1px solid;
+    border-top-color: white;
+    border-left-color: black;
+    border-right-color: white;
+    border-bottom-color: black;
+}
+
+#b4 {
+    border: 1px solid;
+    border-top-color: black;
+    border-left-color: white;
+    border-right-color: black;
+    border-bottom-color: black;
+}
+
+#b5 {
+    border: 1px solid;
+    border-top-color: black;
+    border-left-color: black;
+    border-right-color: black;
+    border-bottom-color: black;
+}
+
+#b6 {
+    border: 1px solid;
+    border-top-color: black;
+    border-left-color: black;
+    border-right-color: white;
+    border-bottom-color: black;
+}
+
+#b7 {
+    border: 1px solid;
+    border-top-color: black;
+    border-left-color: white;
+    border-right-color: black;
+    border-bottom-color: white;
+}
+
+#b8 {
+    border: 1px solid;
+    border-top-color: black;
+    border-left-color: black;
+    border-right-color: black;
+    border-bottom-color: white;
+}
+
+#b9 {
+    border: 1px solid;
+    border-top-color: black;
+    border-left-color: black;
+    border-right-color: white;
+    border-bottom-color: white;
+}
